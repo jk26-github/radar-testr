@@ -1,4 +1,4 @@
-[
+{
   {
     "name": "tools Composer",
     "ring": "adopt",
@@ -27,4 +27,4 @@
     "isNew": "FALSE",
     "description": "We continue to see teams run into trouble using JSF ..."
   }
-]
+}
